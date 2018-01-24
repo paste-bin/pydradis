@@ -6,6 +6,8 @@ Dradis API Python Wrapper
 Copyright &copy; 2016 Novacoast
 </h3>
 
+Modified by paste_bin to fit needs
+
 License
 -
 Pydradis is free software: you can redistribute it and/or modify
