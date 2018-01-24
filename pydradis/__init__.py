@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #####################################################################################
 #                  Pydradis: Python API Wrapper for Dradis                          #
 #                       Copyright (c) 2016 Novacoast                                #
@@ -1054,7 +1055,9 @@ class Pydradis:
         return True;
 
 
-
+if __name__ == '__main__':
+    print "Have not implemented command line usage yet"
+    exit(0)
 
 
 
